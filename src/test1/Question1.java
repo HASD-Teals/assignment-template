@@ -6,5 +6,4 @@ public class Question1 {
 		// TODO Auto-generated method stub
 		System.out.println("Question 1: ");
 	}
-
 }
